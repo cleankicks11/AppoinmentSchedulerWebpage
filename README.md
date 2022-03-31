@@ -1,3 +1,0 @@
-# AppointmentSchedulerDotNetCoreWebApp
-
-DotNetCore WebApp
